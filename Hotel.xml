@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+    <hotel category="Five-star" brand="Serena">
+        <name>Kigali Serena Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>250.00</price>
+             <desription> An intimate, luxurious space for one, featuring a single, double, or queen bed.</desription>
+        </room>
+        <room type="Double">
+            <price>350.00</price>
+             <desription>A spacious room for two (typically a couple), featuring one large king or queen-size bed.</desription>
+        </room>
+        <room type="Twinny">
+            <price>500.00</price>
+            <desription>A flexible room for two separate individuals, featuring two individual single or twin-size beds.</desription>
+        </room>
+        <URL>https://www.serenahotels.com/kigali?srsltid=AfmBOorDwaT8xEh-zjHFIYKSlj-VzZsPHOUkSFCMV6tGuQMaNg97yd7p</URL>
+    </hotel>
+    <hotel category="Five-star" brand="Marriott">
+        <name>Kigali Marriott Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Twinny">
+            <price>500.00</price>
+            <desription>Having a Television, Guests enjoy free WiFi,free PS 5</desription>
+        </room>
+        <URL>https://www.marriott.com/en-us/hotels/kglmc-kigali-marriott-hotel/overview/</URL>
+        
+    </hotel>
+    <hotel category="five-star" brand="Raddision">
+        <name>Raddision BLu Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi,free spa</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+            <desription>Having a Television, Guests enjoy free WiFi,luxurious beds</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+            <desription>Having a Television, Guests enjoy free WiFi,comfortable balcony</desription>
+        </room>
+        <URL>https://www.radissonhotels.com/en-us/hotels/radisson-blu-convention-kigali</URL>
+        
+    </hotel>
+    <hotel category="Four-star" brand="Four point">
+        <name>Four point Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>An intimate, luxurious space for one</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+            <desription>Having a Television, Guests enjoy free WiFi, flexible room for two separate individuals</desription>
+        </room>
+        <URL>https://www.marriott.com/en-us/hotels/kglfp-four-points-kigali/overview/</URL>
+    </hotel>
+     <hotel category="Four-star" brand="Lemigo">
+        <name>Lemigo  Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription> flexible room for two separate individuals</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>Having a Television, flexible room for two separate individuals,</desription>
+        </room>
+        <URL>https://www.lemigohotel.com/</URL>
+    </hotel>
+     <hotel category="Four-star" brand="Dmall">
+        <name>Dmall Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>A cozy, comfortable room for one, featuring a plush single, double, or queen bed. Guests enjoy quality amenities and a well-appointed private bathroom.</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>A spacious retreat for two, featuring one large king or queen-size bed. Designed for couples, with elegant furnishings and a modern, private bathroom.</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>A versatile room with two separate single or twin beds, ideal for friends or colleagues. It offers generous space for individual comfort while sharing the room. </desription>
+        </room>
+        <URL>https://www.tripadvisor.com/Hotel_Review-g293829-d12460669-Reviews-Dmall_Hotel-Kigali_Kigali_Province.html</URL>
+    </hotel>
+    <hotel category="Three-star" brand="Five To Five">
+        <name>Five To Five Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi,a bathroom inside</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <URL>https://fivetofivehotel.com/</URL>
+    </hotel>
+     <hotel category="Three-star" brand="Legend">
+        <name>Legend Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <URL>https://legendhotel.co.rw/</URL>
+    </hotel>
+     <hotel category="Two-star" brand="HomeFree ">
+        <name>Home Free Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>Having a Television, Guests enjoy free WiFi</desription>
+        </room>
+        <URL>https://www.tripadvisor.com/Hotel_Review-g293829-d24098180-Reviews-Home_Free_Hotel-Kigali_Kigali_Province.html</URL>
+    </hotel>
+     <hotel category="Two-star" brand="Boston">
+        <name>Boston Hotel</name>
+        <location>Rwanda</location>
+        <room type="Single">
+            <price>275.00</price>
+             <desription>Our Single Room offers a clean, functional, and comfortable space perfect for the solo traveler.</desription>
+        </room>
+        <room type="Double">
+            <price>400.00</price>
+             <desription>The Double Room is a practical and comfortable option for two people, featuring one large double or queen-size bed with clean linens. </desription>
+        </room>
+        <room type="Twinny">
+            <price>400.00</price>
+             <desription>Ideal for two guests traveling together who prefer separate beds, our Twin Room is equipped with two comfortable single beds.</desription>
+        </room>
+        <URL>https://bostonvillamotel.com/</URL>
+    </hotel>
+</hotels>
